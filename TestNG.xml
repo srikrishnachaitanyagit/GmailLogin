@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="GmailLogin">
+    <test name="GmailLoginTest">
+		<classes>
+			<class name="com.gmail.testcases.Login" />
+			<class name="com.gmail.testcases.Registration" />
+		</classes>
+	</test>
+</suite>

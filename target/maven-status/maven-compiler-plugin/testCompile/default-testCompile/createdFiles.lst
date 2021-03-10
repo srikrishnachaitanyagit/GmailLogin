@@ -1,0 +1,8 @@
+com\gmail\testcases\BaseClass.class
+com\gmail\testcases\LoginDDT.class
+com\gmail\pageobjects\LoginPageObjects.class
+com\gmail\pageobjects\RegistrationPageObjects.class
+com\gmail\testcases\Registration.class
+com\gmail\utilities\XLUtils.class
+com\gmail\utilities\Reporting.class
+com\gmail\testcases\Login.class
