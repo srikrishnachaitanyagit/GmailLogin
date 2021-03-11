@@ -2,26 +2,26 @@
 <testng-results skipped="0" failed="0" ignored="2" total="4" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="GmailLogin" duration-ms="17434" started-at="2021-03-10T15:45:04Z" finished-at="2021-03-10T15:45:22Z">
+  <suite name="GmailLogin" duration-ms="17173" started-at="2021-03-10T17:45:46Z" finished-at="2021-03-10T17:46:03Z">
     <groups>
     </groups>
-    <test name="GmailLoginTest" duration-ms="17434" started-at="2021-03-10T15:45:04Z" finished-at="2021-03-10T15:45:22Z">
+    <test name="GmailLoginTest" duration-ms="17173" started-at="2021-03-10T17:45:46Z" finished-at="2021-03-10T17:46:03Z">
       <class name="com.gmail.testcases.Registration">
-        <test-method status="PASS" signature="registration()[pri:0, instance:com.gmail.testcases.Registration@13969fbe]" name="registration" duration-ms="7491" started-at="2021-03-10T15:45:14Z" finished-at="2021-03-10T15:45:22Z">
+        <test-method status="PASS" signature="registration()[pri:0, instance:com.gmail.testcases.Registration@13969fbe]" name="registration" duration-ms="6814" started-at="2021-03-10T17:45:56Z" finished-at="2021-03-10T17:46:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- registration -->
       </class> <!-- com.gmail.testcases.Registration -->
       <class name="com.gmail.testcases.Login">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.gmail.testcases.Login@22f71333]" name="setup" is-config="true" duration-ms="7158" started-at="2021-03-10T15:44:57Z" finished-at="2021-03-10T15:45:04Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.gmail.testcases.Login@22f71333]" name="setup" is-config="true" duration-ms="14847" started-at="2021-03-10T17:45:31Z" finished-at="2021-03-10T17:45:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="loginPage()[pri:0, instance:com.gmail.testcases.Login@22f71333]" name="loginPage" duration-ms="9907" started-at="2021-03-10T15:45:04Z" finished-at="2021-03-10T15:45:14Z">
+        <test-method status="PASS" signature="loginPage()[pri:0, instance:com.gmail.testcases.Login@22f71333]" name="loginPage" duration-ms="10322" started-at="2021-03-10T17:45:46Z" finished-at="2021-03-10T17:45:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginPage -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:com.gmail.testcases.Login@22f71333]" name="teardown" is-config="true" duration-ms="0" started-at="2021-03-10T15:45:22Z" finished-at="2021-03-10T15:45:22Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.gmail.testcases.Login@22f71333]" name="teardown" is-config="true" duration-ms="2" started-at="2021-03-10T17:46:03Z" finished-at="2021-03-10T17:46:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
